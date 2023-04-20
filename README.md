@@ -12,10 +12,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-
+<!-- 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY0NTBkOGQxNWU5MTlhNzNjYTAxNGVhNjBiMGNlYmJhNDE0MzJjYiZjdD1n/iBVUa8JtPjRA7UBAHu/giphy.gif" width="400" />
-</div>
+</div> -->
 
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Sweden recently.
