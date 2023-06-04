@@ -18,7 +18,7 @@
 </div> -->
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Sweden recently.
+🚀 Passionate Frontend Developer, quick learner and forever hungry for new challenges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
