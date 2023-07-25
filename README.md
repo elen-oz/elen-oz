@@ -48,6 +48,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elen-oz&layout=compact&theme=solarized-light&date_format=j%20M%5B%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Codewars](https://github.r2v.ch/codewars?user=elen-oz&stroke=%23BB432C)
+
 
 <!--
 https://www.sitepoint.com/github-profile-readme/
