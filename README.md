@@ -44,7 +44,7 @@
 ### &#9997; Currently learning :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/chakra-ui/chakra-ui/blob/main/media/logo-colored.svg" title="chakra-ui" alt="chakra-ui" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/chakra-ui/chakra-ui/blob/main/media/logo-colored.svg" title="chakra-ui" alt="chakra-ui" height="40"/>&nbsp;
   
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp; -->
