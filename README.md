@@ -14,7 +14,7 @@
 </div> -->
 
 ### :woman_technologist: About Me :
-🚀 Passionate Frontend Developer, quick learner and forever hungry for new challenges <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Passionate Frontend Developer, quick learner and forever hungry for new challenges 🚀
 
 ---
 
