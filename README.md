@@ -41,7 +41,7 @@
 </section>
 
 <section>
-   <h3>&#9997; Currently learning:</h3>
+   <h3>&#9997; Currently exploring:</h3>
    <img src="/skills-tools-icons/typescript-original.svg" title="Typescript" alt="Typescript" width="45" />&nbsp;
    <img src="/skills-tools-icons/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="45" />&nbsp;
 </section>
