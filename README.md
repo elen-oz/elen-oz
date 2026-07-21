@@ -43,19 +43,22 @@
   
 </section>
 
+<!--
 <section>
    <h3>&#9997; Currently exploring:</h3>
-<!--    <img src="/skills-tools-icons/typescript-original.svg" title="Typescript" alt="Typescript" width="45" />&nbsp; -->
+  <img src="/skills-tools-icons/typescript-original.svg" title="Typescript" alt="Typescript" width="45" />&nbsp;
    <img src="/skills-tools-icons/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="45" />&nbsp;
 </section>
+-->
 
 ---
 
-
+<!-- 
 <section>
    <h3>:fire: My Stats:</h3>
-   
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elen-oz&theme=solarized-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+   ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=elen-oz&show_icons=true&theme=gruvbox)
    
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elen-oz&layout=compact&theme=solarized-light&date_format=j%20M%5B%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
@@ -63,3 +66,4 @@
    
    ![Codewars](https://github.r2v.ch/codewars?user=elen-oz&stroke=%23BB432C)
 </section>
+-->
